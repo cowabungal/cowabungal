@@ -1,6 +1,6 @@
 <h1 align="left">Aidar Galimov (@cowabungal) 👋</h1>
 
-- 💻 Core Stack: **Go, Python**. Mainly focused on Backend.
+- 💻 Core Stack: **Go**. Mainly focused on Backend.
 - 🔥 Interested in Team leading, Product Management, Marketing & UI/UX Design
 - 😌 <a href="https://t.me/cowabunga_a"  target="blank">Telegram</a> | <a href="https://galimovaidar.ru/"  target="blank">Website</a>
 
